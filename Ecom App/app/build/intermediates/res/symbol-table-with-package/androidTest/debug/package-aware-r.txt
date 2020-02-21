@@ -1,0 +1,4 @@
+com.alsanlab.ecom.test
+style InstrumentationActivityInvokerBootstrapActivityTheme
+style InstrumentationActivityInvokerEmptyActivityTheme
+style InstrumentationActivityInvokerFloatingActivityTheme
